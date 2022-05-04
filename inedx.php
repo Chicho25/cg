@@ -7,6 +7,6 @@
     <title>Curso de git</title>
 </head>
 <body>
-    
+    <h1>Esto es calidad</h1>
 </body>
 </html>
