@@ -7,7 +7,7 @@
     <title>Curso de git</title>
 </head>
 <body>
-    <h1>Como asi xolo</h1>
-    <p>Esto para la</p>
+    <h1>Como asi xolo, no esta funka</h1>
+    <p>Esto para la rama Simu</p>
 </body>
 </html>
