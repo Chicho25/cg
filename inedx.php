@@ -8,6 +8,10 @@
 </head>
 <body>
     <h1>Como asi xolo, no esta funka</h1>
+<<<<<<< HEAD
     <p>Esto para la rama Simu como asi don master</p>
+=======
+    <p>Esto para la rama Simu sinsinsin</p>
+>>>>>>> simu
 </body>
 </html>
