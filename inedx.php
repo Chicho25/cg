@@ -8,6 +8,7 @@
 </head>
 <body>
     <h1>Como asi xolo, no esta funka</h1>
-    <p>Esto para la rama Simu sinsinsin</p>
+    <p>Esto para la rama Simu sinsinsin mas cambios esto ees desde la pagina de github</p>
+    
 </body>
 </html>
